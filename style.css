@@ -1,0 +1,33 @@
+body{
+    background-color:
+    black;
+    color:white
+}
+
+
+.content{
+    margin-top:122px ;
+   margin-left:52px ;
+}
+.content h4{
+    font-weight:1px
+
+}
+.content h1{
+    font-weight: 700;
+
+}
+.content p{
+    font-size: 22px;
+font-weight:400
+
+}
+.content h1{
+    border: 2px solid
+    white
+
+}
+h1{
+    
+    font-size: 88px;
+}
